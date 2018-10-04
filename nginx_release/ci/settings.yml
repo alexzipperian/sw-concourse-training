@@ -1,7 +1,7 @@
 release:
-  name: <replace me>
+  name: alex-nginx
 
 github:
-  username: <replace me>
+  username: alexzipperian
   branch: master
   repository: (( concat "https://github.com/" github.username "/sw-concourse-training.git" ))
